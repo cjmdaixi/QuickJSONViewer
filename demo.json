@@ -1,0 +1,11 @@
+{
+    "name": "demo",
+    "boolVal": true,
+    "stringVal": "Hello",
+    "arrayVal": [true, false, true, false],
+    "objVal": {
+        "param0": 1.3,
+        "param1": [2, 3, 4],
+        "param2": "World"
+    }
+}

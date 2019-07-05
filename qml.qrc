@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Visualizer.qml</file>
+        <file>Node.qml</file>
+        <file>demo.json</file>
+    </qresource>
+</RCC>
